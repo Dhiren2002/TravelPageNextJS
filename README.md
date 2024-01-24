@@ -1,3 +1,14 @@
+Travel UI/UX Responsive Landing Page
+
+
+
+![Screenshot 2023-11-27 164525](https://github.com/Dhiren2002/TravelPageNextJS/assets/92098541/abb37670-79ec-4f94-b399-e9fc520d83bc)
+
+![Screenshot 2023-11-27 164410](https://github.com/Dhiren2002/TravelPageNextJS/assets/92098541/cfe3a352-2022-4fde-b42e-9a8c34211dd2)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
